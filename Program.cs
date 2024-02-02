@@ -1,7 +1,14 @@
-﻿namespace a
+﻿using System.Runtime.ConstrainedExecution;
+
+namespace a
 {
 
-    // UC2- calculate Daily Employee Wage
+
+    /* 
+     * Calculate Daily Employee Wage
+        - Assume Wage per Hour is 20
+        - Assume Full Day Hour is 8
+    */
 
     class Program
     {
@@ -16,7 +23,7 @@
             int empWage = 0;
             Random random = new Random();
 
-         
+
             int empCheck = random.Next(0, 2);
 
             if (empCheck == IS_FULL_TIME)
