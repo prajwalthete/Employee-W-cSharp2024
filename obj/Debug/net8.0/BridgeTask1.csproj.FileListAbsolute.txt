@@ -12,3 +12,4 @@ E:\.NET WORKSPACE-1\Websites1\2023\BridgeTask1\obj\Debug\net8.0\refint\BridgeTas
 E:\.NET WORKSPACE-1\Websites1\2023\BridgeTask1\obj\Debug\net8.0\BridgeTask1.pdb
 E:\.NET WORKSPACE-1\Websites1\2023\BridgeTask1\obj\Debug\net8.0\BridgeTask1.genruntimeconfig.cache
 E:\.NET WORKSPACE-1\Websites1\2023\BridgeTask1\obj\Debug\net8.0\ref\BridgeTask1.dll
+E:\.NET WORKSPACE-1\Websites1\2023\BridgeTask1\obj\Debug\net8.0\BridgeTask1.sourcelink.json
