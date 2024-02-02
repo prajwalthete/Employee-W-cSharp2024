@@ -1,0 +1,14 @@
+E:\.NET WORKSPACE-1\Websites1\2023\BridgeTask1\bin\Debug\net8.0\BridgeTask1.exe
+E:\.NET WORKSPACE-1\Websites1\2023\BridgeTask1\bin\Debug\net8.0\BridgeTask1.deps.json
+E:\.NET WORKSPACE-1\Websites1\2023\BridgeTask1\bin\Debug\net8.0\BridgeTask1.runtimeconfig.json
+E:\.NET WORKSPACE-1\Websites1\2023\BridgeTask1\bin\Debug\net8.0\BridgeTask1.dll
+E:\.NET WORKSPACE-1\Websites1\2023\BridgeTask1\bin\Debug\net8.0\BridgeTask1.pdb
+E:\.NET WORKSPACE-1\Websites1\2023\BridgeTask1\obj\Debug\net8.0\BridgeTask1.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET WORKSPACE-1\Websites1\2023\BridgeTask1\obj\Debug\net8.0\BridgeTask1.AssemblyInfoInputs.cache
+E:\.NET WORKSPACE-1\Websites1\2023\BridgeTask1\obj\Debug\net8.0\BridgeTask1.AssemblyInfo.cs
+E:\.NET WORKSPACE-1\Websites1\2023\BridgeTask1\obj\Debug\net8.0\BridgeTask1.csproj.CoreCompileInputs.cache
+E:\.NET WORKSPACE-1\Websites1\2023\BridgeTask1\obj\Debug\net8.0\BridgeTask1.dll
+E:\.NET WORKSPACE-1\Websites1\2023\BridgeTask1\obj\Debug\net8.0\refint\BridgeTask1.dll
+E:\.NET WORKSPACE-1\Websites1\2023\BridgeTask1\obj\Debug\net8.0\BridgeTask1.pdb
+E:\.NET WORKSPACE-1\Websites1\2023\BridgeTask1\obj\Debug\net8.0\BridgeTask1.genruntimeconfig.cache
+E:\.NET WORKSPACE-1\Websites1\2023\BridgeTask1\obj\Debug\net8.0\ref\BridgeTask1.dll
