@@ -1,6 +1,9 @@
 ﻿using System;
 
 namespace a;
+
+// UC -10 Ability to manage Employee Wage of  multiple companies
+
 public class CompanyEmpWage
 {
     public string Company;
