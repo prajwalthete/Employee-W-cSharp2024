@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BridgeTask1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14a3cadb5c343f6020dcdadc0644cdf3ba72e4d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0534d6e4331575a2eb92ff6ff4d4d6bb19b12645")]
 [assembly: System.Reflection.AssemblyProductAttribute("BridgeTask1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BridgeTask1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
